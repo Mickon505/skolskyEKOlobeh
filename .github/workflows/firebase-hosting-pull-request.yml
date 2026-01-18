@@ -22,7 +22,7 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
-          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_SKOLSKYEKOLOBEH_26E }}
-          projectId: skolskyekolobeh-26e
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_SKOLSKY_EKOLOBEH }}
+          projectId: skolsky-ekolobeh
         env:
           FIREBASE_CLI_EXPERIMENTS: webframeworks
