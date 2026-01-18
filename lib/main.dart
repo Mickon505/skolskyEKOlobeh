@@ -46,7 +46,7 @@ class _GardenScreenState extends State<GardenScreen> {
   String selectedLanguage = "sk";
 
   Future<void> loadLanguage(String lng) async {
-    final String jsonString = await rootBundle.loadString("localization.json");
+    final String jsonString = await rootBundle.loadString("assets/localization.json");
     lang = jsonDecode(jsonString);
     setState(() {
       lang = lang[lng];
@@ -54,7 +54,7 @@ class _GardenScreenState extends State<GardenScreen> {
   }
 
   Future<void> loadPlants() async {
-    final String jsonString = await rootBundle.loadString("loc_sk_plants.json");
+    final String jsonString = await rootBundle.loadString("assets/loc_sk_plants.json");
     setState(() {
       plants = jsonDecode(jsonString);
     });
@@ -83,7 +83,7 @@ class _GardenScreenState extends State<GardenScreen> {
               onPressed: () => Popups().aboutProject(context, lang), 
               child: Row(
                 children: [
-                  SvgPicture.asset("Erasmus.svg", height: 24),
+                  SvgPicture.asset("assets/Erasmus.svg", height: 24),
                   const SizedBox(width: 8),
                   const Text("O Projekte"),
                 ],
@@ -91,7 +91,7 @@ class _GardenScreenState extends State<GardenScreen> {
             )
           : IconButton(
               onPressed: () => Popups().aboutProject(context, lang),
-              icon: SvgPicture.asset("Erasmus.svg", height: 30),
+              icon: SvgPicture.asset("assets/Erasmus.svg", height: 30),
             ),
 
           SizedBox(width: 8),

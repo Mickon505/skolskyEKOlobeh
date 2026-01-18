@@ -47,7 +47,7 @@ class Popups {
             Container(
               child: 
                 SvgPicture.asset(
-                  "trojlogo.svg",
+                  "assets/trojlogo.svg",
                   width: MediaQuery.of(context).size.width * 0.5,
                 ),
               
