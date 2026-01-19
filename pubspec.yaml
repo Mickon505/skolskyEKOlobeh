@@ -64,7 +64,7 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
     - assets/localization.json
-    - assets/loc_sk_plants.json
+    - assets/loc_plants.json
     - assets/Erasmus.svg
     - assets/trojlogo.svg
     - assets/plants/

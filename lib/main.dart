@@ -53,17 +53,18 @@ class _GardenScreenState extends State<GardenScreen> {
     });
   }
 
-  Future<void> loadPlants() async {
-    final String jsonString = await rootBundle.loadString("assets/loc_sk_plants.json");
+  Future<void> loadPlants(String lng) async {
+    final String jsonString = await rootBundle.loadString("assets/loc_plants.json");
+    plants = jsonDecode(jsonString);
     setState(() {
-      plants = jsonDecode(jsonString);
+      plants = plants[lng];
     });
   }
 
   @override
   void initState() {
     super.initState();
-    loadPlants();
+    loadPlants("sk");
     loadLanguage("sk");
   }
 
@@ -71,7 +72,7 @@ class _GardenScreenState extends State<GardenScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Školský EKOlobeh'),
+        title: Text(lang["PROJECT_NAME"]),
         actions: [
           MediaQuery.of(context).size.width > 420 
           ? ElevatedButton(
@@ -84,8 +85,8 @@ class _GardenScreenState extends State<GardenScreen> {
               child: Row(
                 children: [
                   SvgPicture.asset("assets/Erasmus.svg", height: 24),
-                  const SizedBox(width: 8),
-                  const Text("O Projekte"),
+                  SizedBox(width: 8),
+                  Text(lang["ABOUT_PROJECT"]),
                 ],
               ),
             )
@@ -106,6 +107,7 @@ class _GardenScreenState extends State<GardenScreen> {
                   selectedLanguage = newValue.toString();
                 });
                 loadLanguage(newValue.toString());
+                loadPlants(newValue.toString());
               },
               items: [
                 const DropdownMenuItem(value: "sk", child: Text("🇸🇰")),

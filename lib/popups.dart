@@ -6,7 +6,7 @@ class Popups {
   void aboutProject(BuildContext context, Map<String, dynamic> lang) {
     showDialog(context: context, builder: (BuildContext context) {
       return AlertDialog(
-        title: const Text("Projekt Školský EKOlobeh"),
+        title: Text(lang["PROJECT"] + lang["PROJECT_NAME"]),
         content: Column(
           mainAxisSize: MainAxisSize.min,
           children: [
@@ -22,20 +22,20 @@ class Popups {
                       ),
                       children: [
                         TextSpan(
-                          text: "Projekt "
+                          text: lang["PROJECT"]
                         ),
                         TextSpan(
-                          text: "Školský EKOlobeh ",
+                          text: lang["PROJECT_NAME"],
                           style: TextStyle(fontWeight: FontWeight.bold)
                         ),
                         TextSpan(
-                          text: "je zameraný na ekologický životný štýl, inšpirovanie mladej generácie na pestovanie vlastnej zelene a zväčšenie úcty k jedlu.",
+                          text: lang["PROJECT_DESCRIPTION"],
                         ),
                         TextSpan(
-                          text: "\n\nAktivita je podporená z projektu Erasmus+:"
+                          text: lang["ACTIVITY_FUNDED_BY"]
                         ),
                         TextSpan(
-                          text: "\nPríležitosti pre mladých - vedomosti, zručnosti a prax",
+                          text: lang["ACTIVITY_NAME"],
                           style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)
                         ),
                       ],
@@ -86,6 +86,13 @@ class Popups {
                       children: [
                         TextSpan(
                           text: plantInfo["DESCRIPTION"] + "\n\n"
+                        ),
+                        TextSpan(
+                          text: lang["WATERING"],
+                          style: TextStyle(fontWeight: FontWeight.bold)
+                        ),
+                        TextSpan(
+                          text: plantInfo["WATERING"] + "\n"
                         ),
                         TextSpan(
                           text: lang["GROW_TIME"],

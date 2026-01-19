@@ -111,6 +111,13 @@ Widget localizedSubtitle(BuildContext context, Map<String, dynamic> plantInfo, M
             text: plantInfo["DESCRIPTION"] + "\n\n"
           ),
           TextSpan(
+            text: lang["WATERING"],
+            style: TextStyle(fontWeight: FontWeight.bold)
+          ),
+          TextSpan(
+            text: plantInfo["WATERING"] + "\n"
+          ),
+          TextSpan(
             text: lang["GROW_TIME"],
             style: TextStyle(fontWeight: FontWeight.bold)
           ),
