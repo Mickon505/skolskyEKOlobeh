@@ -17,21 +17,21 @@
         "THREATS": "Škodci: "
     },
     "ua": {
-        "ABOUT_PROJECT": "O Projekte",
-        "PROJECT": "Projekt ",
-        "PROJECT_NAME": "Školský EKOlobeh ",
-        "PROJECT_DESCRIPTION": "je zameraný na ekologický životný štýl, inšpirovanie mladej generácie na pestovanie vlastnej zelene a zväčšenie úcty k jedlu.",
-        "ACTIVITY_FUNDED_BY": "\n\nAktivita je podporená z projektu Erasmus+:",
-        "ACTIVITY_NAME": "\nPríležitosti pre mladých - vedomosti, zručnosti a prax",
+        "ABOUT_PROJECT": "Про проєкт",
+        "PROJECT": "Проєкт",
+        "PROJECT_NAME": "Шкільний ЕКОобіг ",
+        "PROJECT_DESCRIPTION": "зосереджений на екологічному способі життя, натхненні молодого покоління до вирощування власних зелених культур та підвищенні поваги до їжі.",
+        "ACTIVITY_FUNDED_BY": "\n\nДіяльність підтримується проектом Erasmus+:",
+        "ACTIVITY_NAME": "\nМожливості для молоді — знання, навички та практика",
 
-        "READ_MORE": "Čítať viac...",
-        "BACK": "Späť",
+        "READ_MORE": "Читати далі...",
+        "BACK": "Назад",
 
-        "GROW_TIME": "Čas rastu: ",
-        "WATERING": "Polievanie: ",
-        "PLANTING_SEASON": "Výsadba: ",
-        "HARVESTING_SEASON": "Zber: ",
-        "THREATS": "Škodci: "
+        "GROW_TIME": "Час росту: ",
+        "WATERING": "Полив: ",
+        "PLANTING_SEASON": "Висадка: ",
+        "HARVESTING_SEASON": "Збір урожаю: ",
+        "THREATS": "Шкідники: "
     },
     "hu": {
         "ABOUT_PROJECT": "O Projekte",

@@ -103,111 +103,111 @@
     },
     "ua": {
         "0": {
-            "NAME": "Paradajka",
+            "NAME": "Томат",
             "IMG_FILE": "assets/plants/tomato.png",
-            "DESCRIPTION": "Obľúbená plodová zelenina, ktorá vyžaduje veľa slnka a závetrie. Je bohatá na vitamíny a antioxidanty, pričom existuje množstvo odrôd od kríčkových až po tyčkové.",
-            "WATERING": "2x - 3x týždenne (priamo ku koreňom)",
-            "GROW_TIME": "60 - 80 dní",
-            "PLANTING_SEASON": "Apríl - Máj",
-            "HARVESTING_SEASON": "Júl - September",
-            "THREATS": "Pleseň zemiaková, pásavka zemiaková, vošky"
+            "DESCRIPTION": "Популярна плодова овочева культура, яка потребує багато сонця та захисту від вітру. Багата на вітаміни та антиоксиданти, існує безліч сортів — від кущових до високорослих.",
+            "WATERING": "2-3 рази на тиждень (безпосередньо під корінь)",
+            "GROW_TIME": "60 - 80 днів",
+            "PLANTING_SEASON": "Квітень - Травень",
+            "HARVESTING_SEASON": "Липень - Вересень",
+            "THREATS": "Фітофтороз, колорадський жук, попелиця"
         },
         "1": {
-            "NAME": "Paprika",
+            "NAME": "Перець",
             "IMG_FILE": "assets/plants/pepper.png",
-            "DESCRIPTION": "Teplomilná zelenina náročná na živiny a stabilnú teplotu. Plody sú bohatým zdrojom vitamínu C a dajú sa pestovať v skleníkoch aj na otvorených záhonoch.",
-            "WATERING": "3x - 4x týždenne",
-            "GROW_TIME": "90 - 120 dní",
-            "PLANTING_SEASON": "Máj",
-            "HARVESTING_SEASON": "August - Október",
-            "THREATS": "Molice, vošky, roztočce"
+            "DESCRIPTION": "Теплолюбна овочева культура, вимоглива до поживних речовин та стабільної температури. Плоди є багатим джерелом вітаміну С, можна вирощувати як у теплицях, так і на відкритих грядках.",
+            "WATERING": "3-4 рази на тиждень",
+            "GROW_TIME": "90 - 120 днів",
+            "PLANTING_SEASON": "Травеньáj",
+            "HARVESTING_SEASON": "Серпень - Жовтень",
+            "THREATS": "Білокрилки, попелиця, павутинний кліщ"
         },
         "2": {
-            "NAME": "Jahody",
+            "NAME": "Полуниця",
             "IMG_FILE": "assets/plants/strawberies.png",
-            "DESCRIPTION": "Viacročná rastlina produkujúca sladké a aromatické plody. Vyžaduje slnečné stanovište a pravidelné odstraňovanie poplazov pre lepšiu úrodu v ďalšom roku.",
-            "WATERING": "2x - 3x týždenne",
-            "GROW_TIME": "1 - 2 mesiace (od kvitnutia)",
-            "PLANTING_SEASON": "Marec - Apríl alebo August - September",
-            "HARVESTING_SEASON": "Máj - Jún",
-            "THREATS": "Slimáky, pleseň sivá, roztočík jahodový"
+            "DESCRIPTION": "Багаторічна рослина, що дає солодкі та ароматні плоди. Вимагає сонячного місця та регулярного видалення паростків для кращого врожаю в наступному році.",
+            "WATERING": "2-3 рази на тиждень",
+            "GROW_TIME": "1 - 2 місяці (від цвітіння)",
+            "PLANTING_SEASON": "Березень - Квітень або Серпень - Вересень",
+            "HARVESTING_SEASON": "Травень - Червень",
+            "THREATS": "Слимаки, сіра гниль, суничний кліщ"
         },
         "3": {
-            "NAME": "Hrach",
+            "NAME": "Горох",
             "IMG_FILE": "assets/plants/peas.png",
-            "DESCRIPTION": "Nenáročná strukovina, ktorá obohacuje pôdu o dusík. Rastie rýchlo a väčšina odrôd potrebuje oporu (pletivo alebo palice), po ktorej sa môže šplhať.",
-            "WATERING": "1x - 2x týždenne",
-            "GROW_TIME": "60 - 80 dní",
-            "PLANTING_SEASON": "Marec - Apríl",
-            "HARVESTING_SEASON": "Jún - Júl",
-            "THREATS": "Listáriky, obaľovač hrachový, múčnatka"
+            "DESCRIPTION": "Невибаглива бобова культура, що збагачує ґрунт азотом. Вона швидко росте, тому більшість сортів потребують опори (сітки чи кілків), якими рослина зможе витися.",
+            "WATERING": "1-2 рази на тиждень",
+            "GROW_TIME": "60 - 80 днів",
+            "PLANTING_SEASON": "Березень - Квітень",
+            "HARVESTING_SEASON": "Червень - Липень",
+            "THREATS": "Довгоносики, горохова плодожерка, борошнистий червець"
         },
         "4": {
-            "NAME": "Mrkva",
+            "NAME": "Морква",
             "IMG_FILE": "assets/plants/carrot.png",
-            "DESCRIPTION": "Základná koreňová zelenina, ktorá potrebuje ľahkú, priepustnú pôdu bez kameňov, aby sa koreň nedeformoval. Je známa vysokým obsahom betakaroténu.",
-            "WATERING": "1x - 2x týždenne",
-            "GROW_TIME": "70 - 150 dní",
-            "PLANTING_SEASON": "Marec - Apríl",
-            "HARVESTING_SEASON": "Júl - Október",
-            "THREATS": "Pochmurnatka mrkvová, vošky"
+            "DESCRIPTION": "Звичайний коренеплід, який потребує легкого, пухкого ґрунту без каменів, для правильного розвитку коренів. Відомий високим вмістом бета-каротину.",
+            "WATERING": "1-2 рази на тиждень",
+            "GROW_TIME": "70 - 150 днів",
+            "PLANTING_SEASON": "Березень - Квітень",
+            "HARVESTING_SEASON": "Липень - Жовтень",
+            "THREATS": "Морквяна муха, попелиця"
         },
         "5": {
-            "NAME": "Petržlen",
+            "NAME": "Петрушка",
             "IMG_FILE": "assets/plants/parsley.png",
-            "DESCRIPTION": "Aromatická zelenina pestovaná pre koreň aj vňať. Má dlhú dobu klíčenia a vyžaduje dostatočnú hĺbku skyprenej pôdy pre správny vývoj koreňa.",
-            "WATERING": "2x týždenne",
-            "GROW_TIME": "150 - 180 dní",
-            "PLANTING_SEASON": "Marec - Apríl",
-            "HARVESTING_SEASON": "August - Október",
-            "THREATS": "Múčnatka, hrdza, pochmurnatka"
+            "DESCRIPTION": "Ароматична зелень, що вирощується як для кореня, так і для зелені. Має тривалий період проростання і вимагає достатньої глибини розпушеного ґрунту для правильного розвитку кореня.",
+            "WATERING": "2 рази на тиждень",
+            "GROW_TIME": "150 - 180 днів",
+            "PLANTING_SEASON": "Березень - Квітень",
+            "HARVESTING_SEASON": "Серпень - Жовтень",
+            "THREATS": "Борошнистий червець, коричневий наліт, морквяна муха"
         },
         "6": {
-            "NAME": "Mäta",
+            "NAME": "М'ята",
             "IMG_FILE": "assets/plants/mint.png",
-            "DESCRIPTION": "Veľmi odolná a rýchlo sa šíriaca bylinka s osviežujúcou mentolovou vôňou. Je ideálna do čajov, limonád a dezertov, pričom obľubuje vlhkejšie miesta.",
-            "WATERING": "3x týždenne",
-            "GROW_TIME": "2 - 3 mesiace (do prvého zberu)",
-            "PLANTING_SEASON": "Apríl - Máj",
-            "HARVESTING_SEASON": "Jún - September",
-            "THREATS": "Hrdza mätová, skočky"
+            "DESCRIPTION": "Надзвичайно витривала та швидкоросла пряна трава з освіжаючим м’ятним ароматом. Вона стане ідеальним інгредієнтом для чаїв, лимонадів чи десертів, при цьому віддає перевагу вологим місцям.",
+            "WATERING": "3 рази на тиждень",
+            "GROW_TIME": "2 - 3 місяці (до першого збору)",
+            "PLANTING_SEASON": "Квітень - Травень",
+            "HARVESTING_SEASON": "Червень - Вересень",
+            "THREATS": "Грибкова іржа м’яти, хрестоцвіті блішки"
         },
         "7": {
-            "NAME": "Medovka",
+            "NAME": "Меліса",
             "IMG_FILE": "assets/plants/lemonBalm.png",
-            "DESCRIPTION": "Liečivá bylinka s príjemnou citrónovou vôňou. Pôsobí upokojujúco a pomáha pri nespavosti. Rastie v hustých trsoch a je nenáročná na pestovanie.",
-            "WATERING": "2x týždenne",
-            "GROW_TIME": "2 - 3 mesiace",
-            "PLANTING_SEASON": "Apríl - Máj",
-            "HARVESTING_SEASON": "Jún - August",
-            "THREATS": "Vošky, bzdochy"
+            "DESCRIPTION": "Лікарська трава з приємним лимонним ароматом. Чинить заспокійливу дію та допомагає при безсонні. Росте густими кущами та невибаглива у вирощуванні.",
+            "WATERING": "2 рази на тиждень",
+            "GROW_TIME": "2 - 3 місяці",
+            "PLANTING_SEASON": "Квітень - Травень",
+            "HARVESTING_SEASON": "Червень - Серпень",
+            "THREATS": "Попелиця, клопи"
         },
         "8": {
-            "NAME": "Nádchovník",
+            "NAME": "Кімнатна м'ята",
             "IMG_FILE": "assets/plants/cubanOregano.png",
-            "DESCRIPTION": "Izbová liečivá rastlina s dužinatými listami pokrytými jemnými chĺpkami. Pomáha pri dýchacích problémoch a pôsobí ako prirodzený odpudzovač hmyzu.",
-            "WATERING": "1x týždenne (striedmo)",
-            "GROW_TIME": "celoročne",
-            "PLANTING_SEASON": "Marec - September",
-            "HARVESTING_SEASON": "Celoročne (podľa potreby)",
-            "THREATS": "Hniloba koreňov, vlnatky"
+            "DESCRIPTION": "Кімнатна лікарська рослина з м'ясистим листям, покритим тонкими волосками. Допомагає при проблемах з диханням і діє як природний репелент проти комах.",
+            "WATERING": "1 раз на тиждень (помірно)",
+            "GROW_TIME": "Багаторічна",
+            "PLANTING_SEASON": "Березень - Вересень",
+            "HARVESTING_SEASON": "Цілий рік (за потреби)",
+            "THREATS": "Коренева гниль, борошнистий червець"
         },
         "9": {
-            "NAME": "Levanduľa",
+            "NAME": "Лаванда",
             "IMG_FILE": "assets/plants/levander.png",
-            "DESCRIPTION": "Stredomorský poloker známy svojou charakteristickou vôňou a fialovými kvetmi. Vyžaduje suchšiu, vápenatú pôdu a veľa priameho slnečného svetla.",
-            "WATERING": "1x za 10 dní",
-            "GROW_TIME": "1 - 2 roky (do plnej sily)",
-            "PLANTING_SEASON": "Marec - Apríl alebo September - Október",
-            "HARVESTING_SEASON": "Jún - Júl",
-            "THREATS": "Peniaka, hniloba pri prelievaní"
+            "DESCRIPTION": "Середземноморський напівчагарник, відомий своїм характерним ароматом та фіолетовими квітами. Потребує сухого, вапняного ґрунту та багато прямого сонячного світла.",
+            "WATERING": "1 раз на 10 днів",
+            "GROW_TIME": "1 - 2 роки (до повної сили)",
+            "PLANTING_SEASON": "Березень - Квітень або Вересень - Жовтень",
+            "HARVESTING_SEASON": "Червень - Липень",
+            "THREATS": "Слинявка пеніцниця, гниль при надмірному поливі"
         }
     },
     "hu": {
         "0": {
-            "NAME": "Paradajka",
+            "NAME": "Paradicsom",
             "IMG_FILE": "assets/plants/tomato.png",
-            "DESCRIPTION": "Obľúbená plodová zelenina, ktorá vyžaduje veľa slnka a závetrie. Je bohatá na vitamíny a antioxidanty, pričom existuje množstvo odrôd od kríčkových až po tyčkové.",
+            "DESCRIPTION": "Népszerű termésnövelő zöldség, amely sok napsütést és szélvédett helyet igényel. Vitaminokban és antioxidánsokban gazdag, és számos fajtája létezik a bokrostól a folytonnövőig (karósig).",
             "WATERING": "2x - 3x týždenne (priamo ku koreňom)",
             "GROW_TIME": "60 - 80 dní",
             "PLANTING_SEASON": "Apríl - Máj",
@@ -217,7 +217,7 @@
         "1": {
             "NAME": "Paprika",
             "IMG_FILE": "assets/plants/pepper.png",
-            "DESCRIPTION": "Teplomilná zelenina náročná na živiny a stabilnú teplotu. Plody sú bohatým zdrojom vitamínu C a dajú sa pestovať v skleníkoch aj na otvorených záhonoch.",
+            "DESCRIPTION": "Melegigényes, tápanyagigényes és stabil hőmérsékletet igénylő zöldség. Termése gazdag C-vitaminnal, termelni lehet üvegházban vagy szabadföldön.",
             "WATERING": "3x - 4x týždenne",
             "GROW_TIME": "90 - 120 dní",
             "PLANTING_SEASON": "Máj",
@@ -225,7 +225,7 @@
             "THREATS": "Molice, vošky, roztočce"
         },
         "2": {
-            "NAME": "Jahody",
+            "NAME": "Eper",
             "IMG_FILE": "assets/plants/strawberies.png",
             "DESCRIPTION": "Viacročná rastlina produkujúca sladké a aromatické plody. Vyžaduje slnečné stanovište a pravidelné odstraňovanie poplazov pre lepšiu úrodu v ďalšom roku.",
             "WATERING": "2x - 3x týždenne",
@@ -235,7 +235,7 @@
             "THREATS": "Slimáky, pleseň sivá, roztočík jahodový"
         },
         "3": {
-            "NAME": "Hrach",
+            "NAME": "Cukor borsó",
             "IMG_FILE": "assets/plants/peas.png",
             "DESCRIPTION": "Nenáročná strukovina, ktorá obohacuje pôdu o dusík. Rastie rýchlo a väčšina odrôd potrebuje oporu (pletivo alebo palice), po ktorej sa môže šplhať.",
             "WATERING": "1x - 2x týždenne",
@@ -245,7 +245,7 @@
             "THREATS": "Listáriky, obaľovač hrachový, múčnatka"
         },
         "4": {
-            "NAME": "Mrkva",
+            "NAME": "Sárgarépa",
             "IMG_FILE": "assets/plants/carrot.png",
             "DESCRIPTION": "Základná koreňová zelenina, ktorá potrebuje ľahkú, priepustnú pôdu bez kameňov, aby sa koreň nedeformoval. Je známa vysokým obsahom betakaroténu.",
             "WATERING": "1x - 2x týždenne",
@@ -255,7 +255,7 @@
             "THREATS": "Pochmurnatka mrkvová, vošky"
         },
         "5": {
-            "NAME": "Petržlen",
+            "NAME": "Petrezselyem",
             "IMG_FILE": "assets/plants/parsley.png",
             "DESCRIPTION": "Aromatická zelenina pestovaná pre koreň aj vňať. Má dlhú dobu klíčenia a vyžaduje dostatočnú hĺbku skyprenej pôdy pre správny vývoj koreňa.",
             "WATERING": "2x týždenne",
@@ -265,7 +265,7 @@
             "THREATS": "Múčnatka, hrdza, pochmurnatka"
         },
         "6": {
-            "NAME": "Mäta",
+            "NAME": "Menta",
             "IMG_FILE": "assets/plants/mint.png",
             "DESCRIPTION": "Veľmi odolná a rýchlo sa šíriaca bylinka s osviežujúcou mentolovou vôňou. Je ideálna do čajov, limonád a dezertov, pričom obľubuje vlhkejšie miesta.",
             "WATERING": "3x týždenne",
@@ -275,7 +275,7 @@
             "THREATS": "Hrdza mätová, skočky"
         },
         "7": {
-            "NAME": "Medovka",
+            "NAME": "Citromfű",
             "IMG_FILE": "assets/plants/lemonBalm.png",
             "DESCRIPTION": "Liečivá bylinka s príjemnou citrónovou vôňou. Pôsobí upokojujúco a pomáha pri nespavosti. Rastie v hustých trsoch a je nenáročná na pestovanie.",
             "WATERING": "2x týždenne",
@@ -285,7 +285,7 @@
             "THREATS": "Vošky, bzdochy"
         },
         "8": {
-            "NAME": "Nádchovník",
+            "NAME": "citromkakukkfű",
             "IMG_FILE": "assets/plants/cubanOregano.png",
             "DESCRIPTION": "Izbová liečivá rastlina s dužinatými listami pokrytými jemnými chĺpkami. Pomáha pri dýchacích problémoch a pôsobí ako prirodzený odpudzovač hmyzu.",
             "WATERING": "1x týždenne (striedmo)",
@@ -295,7 +295,7 @@
             "THREATS": "Hniloba koreňov, vlnatky"
         },
         "9": {
-            "NAME": "Levanduľa",
+            "NAME": "Levendula",
             "IMG_FILE": "assets/plants/levander.png",
             "DESCRIPTION": "Stredomorský poloker známy svojou charakteristickou vôňou a fialovými kvetmi. Vyžaduje suchšiu, vápenatú pôdu a veľa priameho slnečného svetla.",
             "WATERING": "1x za 10 dní",
