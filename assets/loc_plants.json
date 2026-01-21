@@ -208,101 +208,101 @@
             "NAME": "Paradicsom",
             "IMG_FILE": "assets/plants/tomato.png",
             "DESCRIPTION": "Népszerű termésnövelő zöldség, amely sok napsütést és szélvédett helyet igényel. Vitaminokban és antioxidánsokban gazdag, és számos fajtája létezik a bokrostól a folytonnövőig (karósig).",
-            "WATERING": "2x - 3x týždenne (priamo ku koreňom)",
-            "GROW_TIME": "60 - 80 dní",
-            "PLANTING_SEASON": "Apríl - Máj",
-            "HARVESTING_SEASON": "Júl - September",
-            "THREATS": "Pleseň zemiaková, pásavka zemiaková, vošky"
+            "WATERING": "2x - 3x hetente (egyenesen a gyökeréhez)",
+            "GROW_TIME": "60 - 80 nap",
+            "PLANTING_SEASON": "Áprílis - Május",
+            "HARVESTING_SEASON": "Július - Szeptember",
+            "THREATS": "Burgonyapenészedés, burgonyabogár, tetvek"
         },
         "1": {
             "NAME": "Paprika",
             "IMG_FILE": "assets/plants/pepper.png",
             "DESCRIPTION": "Melegigényes, tápanyagigényes és stabil hőmérsékletet igénylő zöldség. Termése gazdag C-vitaminnal, termelni lehet üvegházban vagy szabadföldön.",
-            "WATERING": "3x - 4x týždenne",
-            "GROW_TIME": "90 - 120 dní",
-            "PLANTING_SEASON": "Máj",
-            "HARVESTING_SEASON": "August - Október",
-            "THREATS": "Molice, vošky, roztočce"
+            "WATERING": "3x - 4x hetente",
+            "GROW_TIME": "90 - 120 nap",
+            "PLANTING_SEASON": "Május",
+            "HARVESTING_SEASON": "Augusztus - Október",
+            "THREATS": "Molyok, tetvek, atkák"
         },
         "2": {
             "NAME": "Eper",
             "IMG_FILE": "assets/plants/strawberies.png",
-            "DESCRIPTION": "Viacročná rastlina produkujúca sladké a aromatické plody. Vyžaduje slnečné stanovište a pravidelné odstraňovanie poplazov pre lepšiu úrodu v ďalšom roku.",
-            "WATERING": "2x - 3x týždenne",
-            "GROW_TIME": "1 - 2 mesiace (od kvitnutia)",
-            "PLANTING_SEASON": "Marec - Apríl alebo August - September",
-            "HARVESTING_SEASON": "Máj - Jún",
-            "THREATS": "Slimáky, pleseň sivá, roztočík jahodový"
+            "DESCRIPTION": "Édes, aromás termésű évelő gyümölcs. Napos helyet igényel, futó kocsokat rendszeresen el kell távolíttani a következő évi termés hozam végett.",
+            "WATERING": "2x - 3x hetente",
+            "GROW_TIME": "1 - 2 hónap (a virágzástól)",
+            "PLANTING_SEASON": "Március - Áprílis vagy Augusztus - Szeptember",
+            "HARVESTING_SEASON": "Május - Június",
+            "THREATS": "Csigák, szürke penész, eper takácsatka"
         },
         "3": {
-            "NAME": "Cukor borsó",
+            "NAME": "Cukorborsó",
             "IMG_FILE": "assets/plants/peas.png",
-            "DESCRIPTION": "Nenáročná strukovina, ktorá obohacuje pôdu o dusík. Rastie rýchlo a väčšina odrôd potrebuje oporu (pletivo alebo palice), po ktorej sa môže šplhať.",
-            "WATERING": "1x - 2x týždenne",
-            "GROW_TIME": "60 - 80 dní",
-            "PLANTING_SEASON": "Marec - Apríl",
-            "HARVESTING_SEASON": "Jún - Júl",
-            "THREATS": "Listáriky, obaľovač hrachový, múčnatka"
+            "DESCRIPTION": "Igénytelen hüvelyes növény, ami a termő talajt dúsitja nitrogénnel. Gyorsan növő, némelyik fajta támaszt igényel.",
+            "WATERING": "1x - 2x hetente",
+            "GROW_TIME": "60 - 80 nap",
+            "PLANTING_SEASON": "Március - Áprílis",
+            "HARVESTING_SEASON": "Június - Július",
+            "THREATS": "Levéltetvek, borsómoly, lisztharmat"
         },
         "4": {
             "NAME": "Sárgarépa",
             "IMG_FILE": "assets/plants/carrot.png",
-            "DESCRIPTION": "Základná koreňová zelenina, ktorá potrebuje ľahkú, priepustnú pôdu bez kameňov, aby sa koreň nedeformoval. Je známa vysokým obsahom betakaroténu.",
-            "WATERING": "1x - 2x týždenne",
-            "GROW_TIME": "70 - 150 dní",
-            "PLANTING_SEASON": "Marec - Apríl",
-            "HARVESTING_SEASON": "Júl - Október",
-            "THREATS": "Pochmurnatka mrkvová, vošky"
+            "DESCRIPTION": "Alapvető gyökeres zöldség, laza talajt igényel, hogy a gyökere könnyen terjeszkedjen lefelé. Karotinban nagyon gazdag.",
+            "WATERING": "1x - 2x hetente",
+            "GROW_TIME": "70 - 150 nap",
+            "PLANTING_SEASON": "Március - Áprílis",
+            "HARVESTING_SEASON": "Július - Október",
+            "THREATS": "Répalégy, tetvek"
         },
         "5": {
             "NAME": "Petrezselyem",
             "IMG_FILE": "assets/plants/parsley.png",
-            "DESCRIPTION": "Aromatická zelenina pestovaná pre koreň aj vňať. Má dlhú dobu klíčenia a vyžaduje dostatočnú hĺbku skyprenej pôdy pre správny vývoj koreňa.",
-            "WATERING": "2x týždenne",
-            "GROW_TIME": "150 - 180 dní",
-            "PLANTING_SEASON": "Marec - Apríl",
-            "HARVESTING_SEASON": "August - Október",
-            "THREATS": "Múčnatka, hrdza, pochmurnatka"
+            "DESCRIPTION": "Aromás növény, a gyökere és a levele is felhasználható. Hosszú csírázási folyamata van és mély laza talajt igényel a gyökér fejlődése szempontjából.",
+            "WATERING": "2x hetente",
+            "GROW_TIME": "150 - 180 nap",
+            "PLANTING_SEASON": "Március - Áprílis",
+            "HARVESTING_SEASON": "Augusztus - Október",
+            "THREATS": "Lisztharmat, rozsda, répalégy"
         },
         "6": {
             "NAME": "Menta",
             "IMG_FILE": "assets/plants/mint.png",
-            "DESCRIPTION": "Veľmi odolná a rýchlo sa šíriaca bylinka s osviežujúcou mentolovou vôňou. Je ideálna do čajov, limonád a dezertov, pričom obľubuje vlhkejšie miesta.",
-            "WATERING": "3x týždenne",
-            "GROW_TIME": "2 - 3 mesiace (do prvého zberu)",
-            "PLANTING_SEASON": "Apríl - Máj",
-            "HARVESTING_SEASON": "Jún - September",
-            "THREATS": "Hrdza mätová, skočky"
+            "DESCRIPTION": "Nagyon igénytelen és gyorsan terjedő friss illatú gyógynövény. Szereti a nedvesebb környezetet, ideális teákban, limonádéban és desszertekben is.",
+            "WATERING": "3x hetente",
+            "GROW_TIME": "2 - 3 hónap (az első szedéstől)",
+            "PLANTING_SEASON": "Áprílis - Május",
+            "HARVESTING_SEASON": "Június - Szeptember",
+            "THREATS": "Rozsda, bolhák"
         },
         "7": {
             "NAME": "Citromfű",
             "IMG_FILE": "assets/plants/lemonBalm.png",
-            "DESCRIPTION": "Liečivá bylinka s príjemnou citrónovou vôňou. Pôsobí upokojujúco a pomáha pri nespavosti. Rastie v hustých trsoch a je nenáročná na pestovanie.",
-            "WATERING": "2x týždenne",
-            "GROW_TIME": "2 - 3 mesiace",
-            "PLANTING_SEASON": "Apríl - Máj",
-            "HARVESTING_SEASON": "Jún - August",
-            "THREATS": "Vošky, bzdochy"
+            "DESCRIPTION": "Kellemes citrom illatú gyógynövény. Nyugtató hatása van és álmatlanságban is segít. Buja növésű, termesztése igénytelen.",
+            "WATERING": "2x hetente",
+            "GROW_TIME": "2 - 3 hónap",
+            "PLANTING_SEASON": "Áprílis - Május",
+            "HARVESTING_SEASON": "Június - Augusztus",
+            "THREATS": "Tetvek, poloskák"
         },
         "8": {
-            "NAME": "citromkakukkfű",
+            "NAME": "Spanyol kakukkfű",
             "IMG_FILE": "assets/plants/cubanOregano.png",
-            "DESCRIPTION": "Izbová liečivá rastlina s dužinatými listami pokrytými jemnými chĺpkami. Pomáha pri dýchacích problémoch a pôsobí ako prirodzený odpudzovač hmyzu.",
-            "WATERING": "1x týždenne (striedmo)",
-            "GROW_TIME": "celoročne",
-            "PLANTING_SEASON": "Marec - September",
-            "HARVESTING_SEASON": "Celoročne (podľa potreby)",
-            "THREATS": "Hniloba koreňov, vlnatky"
+            "DESCRIPTION": "Húsos, finom szőrökkel borított levelekkel rendelkező gyógyító hatású szobanovény. Segít a légzési panaszokon, valamint természetes rovarűző.",
+            "WATERING": "11x hetente (takarékosan)",
+            "GROW_TIME": "egész évben",
+            "PLANTING_SEASON": "Március - Szeptember",
+            "HARVESTING_SEASON": "Egész évben (szükség esetén)",
+            "THREATS": "Tőrothadás, gyapjas levéltetvek"
         },
         "9": {
             "NAME": "Levendula",
             "IMG_FILE": "assets/plants/levander.png",
-            "DESCRIPTION": "Stredomorský poloker známy svojou charakteristickou vôňou a fialovými kvetmi. Vyžaduje suchšiu, vápenatú pôdu a veľa priameho slnečného svetla.",
-            "WATERING": "1x za 10 dní",
-            "GROW_TIME": "1 - 2 roky (do plnej sily)",
-            "PLANTING_SEASON": "Marec - Apríl alebo September - Október",
-            "HARVESTING_SEASON": "Jún - Júl",
-            "THREATS": "Peniaka, hniloba pri prelievaní"
+            "DESCRIPTION": "Földközi tengertől származó félbokor, jellegzetes illatáról és lila virágjáról ismert. Száraz, meszes talajt igényel és szereti a sok napsütést.",
+            "WATERING": "1x 10 naponta",
+            "GROW_TIME": "1 - 2 év (míg megerősödik)",
+            "PLANTING_SEASON": "Március - Áprílis vagy Szeptember - Október",
+            "HARVESTING_SEASON": "Június - Július",
+            "THREATS": "Réti szúnyog, rothadás öntözés közben"
         }
     }
 }

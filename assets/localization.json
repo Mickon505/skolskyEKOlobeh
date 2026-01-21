@@ -34,20 +34,20 @@
         "THREATS": "Шкідники: "
     },
     "hu": {
-        "ABOUT_PROJECT": "O Projekte",
+        "ABOUT_PROJECT": "A projektről",
         "PROJECT": "Projekt ",
-        "PROJECT_NAME": "Školský EKOlobeh ",
-        "PROJECT_DESCRIPTION": "je zameraný na ekologický životný štýl, inšpirovanie mladej generácie na pestovanie vlastnej zelene a zväčšenie úcty k jedlu.",
-        "ACTIVITY_FUNDED_BY": "\n\nAktivita je podporená z projektu Erasmus+:",
-        "ACTIVITY_NAME": "\nPríležitosti pre mladých - vedomosti, zručnosti a prax",
+        "PROJECT_NAME": "Iskolai ÖKOkörforgás ",
+        "PROJECT_DESCRIPTION": "az ökológiai életmódra, a fiatal generáció saját növénytermesztésre való ösztönzésére és az élelmiszer iránti tisztelet növelésére összpontosít.",
+        "ACTIVITY_FUNDED_BY": "\n\nA tevékenység az Erasmus+ projekt támogatásával valósult meg:",
+        "ACTIVITY_NAME": "\nLehetőségek fiataloknak – tudás, készségek és gyakorlat",
 
-        "READ_MORE": "Čítať viac...",
-        "BACK": "Späť",
+        "READ_MORE": "Bővebben...",
+        "BACK": "Vissza",
 
-        "GROW_TIME": "Čas rastu: ",
-        "WATERING": "Polievanie: ",
-        "PLANTING_SEASON": "Výsadba: ",
-        "HARVESTING_SEASON": "Zber: ",
-        "THREATS": "Škodci: "
+        "GROW_TIME": "Növekedési idő: ",
+        "WATERING": "Öntözés: ",
+        "PLANTING_SEASON": "Ültetés: ",
+        "HARVESTING_SEASON": "Betakarítás: ",
+        "THREATS": "Kártevők: "
     }
 }
