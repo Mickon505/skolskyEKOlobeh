@@ -34,20 +34,20 @@
         "THREATS": "Шкідники: "
     },
     "hu": {
-        "ABOUT_PROJECT": "A projektről",
+        "ABOUT_PROJECT": "Projektről",
         "PROJECT": "Projekt ",
-        "PROJECT_NAME": "Iskolai ÖKOkörforgás ",
-        "PROJECT_DESCRIPTION": "az ökológiai életmódra, a fiatal generáció saját növénytermesztésre való ösztönzésére és az élelmiszer iránti tisztelet növelésére összpontosít.",
-        "ACTIVITY_FUNDED_BY": "\n\nA tevékenység az Erasmus+ projekt támogatásával valósult meg:",
+        "PROJECT_NAME": "Iskolai ÖKOkör ",
+        "PROJECT_DESCRIPTION": "ennek a projektnak a célja az ökológiai életmód népszerűsítése a fiatal generáció ösztönzése a saját növénytermesztésre valamint az étel iránti tisztelet elmélyítése.",
+        "ACTIVITY_FUNDED_BY": "\n\nA tevékenység az Erasmus+ projekt támogatásával valósul meg:",
         "ACTIVITY_NAME": "\nLehetőségek fiataloknak – tudás, készségek és gyakorlat",
 
-        "READ_MORE": "Bővebben...",
+        "READ_MORE": "Olvasni róla többet...",
         "BACK": "Vissza",
 
-        "GROW_TIME": "Növekedési idő: ",
+        "GROW_TIME": "Növési időszak: ",
         "WATERING": "Öntözés: ",
         "PLANTING_SEASON": "Ültetés: ",
-        "HARVESTING_SEASON": "Betakarítás: ",
+        "HARVESTING_SEASON": "Termés szedés: ",
         "THREATS": "Kártevők: "
     }
 }
